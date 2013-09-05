@@ -1,0 +1,49 @@
+2013-08-22 02:58:20 [INFO] Starting minecraft server version 1.5.2
+2013-08-22 02:59:18 [INFO] Loading properties
+2013-08-22 02:59:18 [INFO] Default game type: SURVIVAL
+2013-08-22 02:59:18 [INFO] Generating keypair
+2013-08-22 02:59:19 [INFO] Starting Minecraft server on *:25565
+2013-08-22 02:59:40 [WARNING] Failed to load operators list: java.io.FileNotFoundException: ./ops.txt (No such file or directory)
+2013-08-22 02:59:40 [WARNING] Failed to load white-list: java.io.FileNotFoundException: ./white-list.txt (No such file or directory)
+2013-08-22 02:59:40 [INFO] Preparing level "world"
+2013-08-22 02:59:44 [INFO] Preparing start region for level 0
+2013-08-22 02:59:45 [INFO] Preparing spawn area: 3%
+2013-08-22 02:59:46 [INFO] Preparing spawn area: 4%
+2013-08-22 02:59:47 [INFO] Preparing spawn area: 4%
+2013-08-22 02:59:48 [INFO] Preparing spawn area: 7%
+2013-08-22 02:59:49 [INFO] Preparing spawn area: 8%
+2013-08-22 02:59:50 [INFO] Preparing spawn area: 9%
+2013-08-22 02:59:51 [INFO] Preparing spawn area: 11%
+2013-08-22 02:59:52 [INFO] Preparing spawn area: 12%
+2013-08-22 02:59:53 [INFO] Preparing spawn area: 15%
+2013-08-22 02:59:55 [INFO] Preparing spawn area: 17%
+2013-08-22 02:59:56 [INFO] Preparing spawn area: 19%
+2013-08-22 02:59:57 [INFO] Preparing spawn area: 22%
+2013-08-22 02:59:58 [INFO] Preparing spawn area: 25%
+2013-08-22 02:59:59 [INFO] Preparing spawn area: 28%
+2013-08-22 03:00:00 [INFO] Preparing spawn area: 31%
+2013-08-22 03:00:01 [INFO] Preparing spawn area: 33%
+2013-08-22 03:00:02 [INFO] Preparing spawn area: 35%
+2013-08-22 03:00:03 [INFO] Preparing spawn area: 39%
+2013-08-22 03:00:04 [INFO] Preparing spawn area: 42%
+2013-08-22 03:00:05 [INFO] Preparing spawn area: 46%
+2013-08-22 03:00:06 [INFO] Preparing spawn area: 49%
+2013-08-22 03:00:07 [INFO] Preparing spawn area: 53%
+2013-08-22 03:00:08 [INFO] Preparing spawn area: 57%
+2013-08-22 03:00:09 [INFO] Preparing spawn area: 59%
+2013-08-22 03:00:10 [INFO] Preparing spawn area: 62%
+2013-08-22 03:00:11 [INFO] Preparing spawn area: 66%
+2013-08-22 03:00:12 [INFO] Preparing spawn area: 71%
+2013-08-22 03:00:13 [INFO] Preparing spawn area: 76%
+2013-08-22 03:00:14 [INFO] Preparing spawn area: 78%
+2013-08-22 03:00:15 [INFO] Preparing spawn area: 81%
+2013-08-22 03:00:16 [INFO] Preparing spawn area: 85%
+2013-08-22 03:00:17 [INFO] Preparing spawn area: 89%
+2013-08-22 03:00:18 [INFO] Preparing spawn area: 94%
+2013-08-22 03:00:19 [INFO] Done (39.639s)! For help, type "help" or "?"
+2013-08-22 03:00:20 [INFO] /50.131.147.71:49241 lost connection
+2013-08-22 03:00:51 [INFO] robotronx[/98.207.152.213:43180] logged in with entity id 6356 at (-104.5, 70.0, 272.5)
+2013-08-22 03:00:54 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-08-22 03:01:22 [INFO] robotronx lost connection: disconnect.genericReason
+2013-08-22 03:06:49 [INFO] robotronx[/98.207.152.213:48171] logged in with entity id 7164 at (-104.5, 70.0, 272.5)
+2013-08-22 03:07:23 [INFO] robotronx lost connection: disconnect.genericReason
